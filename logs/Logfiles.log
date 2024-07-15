@@ -1,0 +1,344 @@
+2024-07-15 08:33:30 INFO  [main] FinalTest:145 - Quebec Auction and publication of results of debt securities issued for municipal financing purposes Website is opened successfully
+2024-07-15 08:33:31 INFO  [main] FinalTest:148 - Website is translated to English language
+2024-07-15 08:33:34 INFO  [main] FinalTest:54 - Saint-Lambert Bond is selected
+2024-07-15 08:33:36 INFO  [main] FinalTest:62 - Saint-Lambert Bond Report is Opened
+2024-07-15 08:33:42 INFO  [main] FinalTest:89 - Saint-Lambert Bond Report data is downloaded to an excel sheet
+2024-07-15 08:33:42 INFO  [main] FinalTest:94 - Saint-Lambert Bond Report is Closed
+2024-07-15 08:33:42 INFO  [main] FinalTest:54 - Blainville Bond is selected
+2024-07-15 08:33:45 INFO  [main] FinalTest:62 - Blainville Bond Report is Opened
+2024-07-15 08:33:47 INFO  [main] FinalTest:89 - Blainville Bond Report data is downloaded to an excel sheet
+2024-07-15 08:33:47 INFO  [main] FinalTest:94 - Blainville Bond Report is Closed
+2024-07-15 08:33:47 INFO  [main] FinalTest:54 - Régie de l'eau de L'Île-Perrot Bond is selected
+2024-07-15 08:33:50 INFO  [main] FinalTest:62 - Régie de l'eau de L'Île-Perrot Bond Report is Opened
+2024-07-15 08:33:51 INFO  [main] FinalTest:89 - Régie de l'eau de L'Île-Perrot Bond Report data is downloaded to an excel sheet
+2024-07-15 08:33:51 INFO  [main] FinalTest:94 - Régie de l'eau de L'Île-Perrot Bond Report is Closed
+2024-07-15 08:33:51 INFO  [main] FinalTest:54 - Vaudreuil-Dorion Bond is selected
+2024-07-15 08:33:54 INFO  [main] FinalTest:62 - Vaudreuil-Dorion Bond Report is Opened
+2024-07-15 08:33:55 INFO  [main] FinalTest:89 - Vaudreuil-Dorion Bond Report data is downloaded to an excel sheet
+2024-07-15 08:33:55 INFO  [main] FinalTest:94 - Vaudreuil-Dorion Bond Report is Closed
+2024-07-15 08:33:56 INFO  [main] FinalTest:54 - La Haute-Yamaska Bond is selected
+2024-07-15 08:33:58 INFO  [main] FinalTest:62 - La Haute-Yamaska Bond Report is Opened
+2024-07-15 08:34:00 INFO  [main] FinalTest:89 - La Haute-Yamaska Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:00 INFO  [main] FinalTest:94 - La Haute-Yamaska Bond Report is Closed
+2024-07-15 08:34:00 INFO  [main] FinalTest:54 - L'Isle-Verte Bond is selected
+2024-07-15 08:34:03 INFO  [main] FinalTest:62 - L'Isle-Verte Bond Report is Opened
+2024-07-15 08:34:04 INFO  [main] FinalTest:89 - L'Isle-Verte Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:04 INFO  [main] FinalTest:94 - L'Isle-Verte Bond Report is Closed
+2024-07-15 08:34:04 INFO  [main] FinalTest:54 - Sainte-Julienne Bond is selected
+2024-07-15 08:34:06 INFO  [main] FinalTest:62 - Sainte-Julienne Bond Report is Opened
+2024-07-15 08:34:08 INFO  [main] FinalTest:89 - Sainte-Julienne Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:08 INFO  [main] FinalTest:94 - Sainte-Julienne Bond Report is Closed
+2024-07-15 08:34:08 INFO  [main] FinalTest:54 - Saint-Louis-du-Ha! Ha! Bond is selected
+2024-07-15 08:34:11 INFO  [main] FinalTest:62 - Saint-Louis-du-Ha! Ha! Bond Report is Opened
+2024-07-15 08:34:12 INFO  [main] FinalTest:89 - Saint-Louis-du-Ha! Ha! Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:12 INFO  [main] FinalTest:94 - Saint-Louis-du-Ha! Ha! Bond Report is Closed
+2024-07-15 08:34:13 INFO  [main] FinalTest:54 - Waterloo Bond is selected
+2024-07-15 08:34:15 INFO  [main] FinalTest:62 - Waterloo Bond Report is Opened
+2024-07-15 08:34:16 INFO  [main] FinalTest:89 - Waterloo Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:16 INFO  [main] FinalTest:94 - Waterloo Bond Report is Closed
+2024-07-15 08:34:17 INFO  [main] FinalTest:54 - Cantley Bond is selected
+2024-07-15 08:34:19 INFO  [main] FinalTest:62 - Cantley Bond Report is Opened
+2024-07-15 08:34:21 INFO  [main] FinalTest:89 - Cantley Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:21 INFO  [main] FinalTest:94 - Cantley Bond Report is Closed
+2024-07-15 08:34:21 INFO  [main] FinalTest:54 - La Matapédia Bond is selected
+2024-07-15 08:34:24 INFO  [main] FinalTest:62 - La Matapédia Bond Report is Opened
+2024-07-15 08:34:25 INFO  [main] FinalTest:89 - La Matapédia Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:25 INFO  [main] FinalTest:94 - La Matapédia Bond Report is Closed
+2024-07-15 08:34:26 INFO  [main] FinalTest:54 - Régie intermunicipale de gestion des matières résiduelles de la région de Coaticook Bond is selected
+2024-07-15 08:34:28 INFO  [main] FinalTest:62 - Régie intermunicipale de gestion des matières résiduelles de la région de Coaticook Bond Report is Opened
+2024-07-15 08:34:30 INFO  [main] FinalTest:89 - Régie intermunicipale de gestion des matières résiduelles de la région de Coaticook Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:30 INFO  [main] FinalTest:94 - Régie intermunicipale de gestion des matières résiduelles de la région de Coaticook Bond Report is Closed
+2024-07-15 08:34:30 INFO  [main] FinalTest:54 - Saint-Donat Bond is selected
+2024-07-15 08:34:32 INFO  [main] FinalTest:62 - Saint-Donat Bond Report is Opened
+2024-07-15 08:34:34 INFO  [main] FinalTest:89 - Saint-Donat Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:34 INFO  [main] FinalTest:94 - Saint-Donat Bond Report is Closed
+2024-07-15 08:34:34 INFO  [main] FinalTest:54 - Saint-Lazare Bond is selected
+2024-07-15 08:34:37 INFO  [main] FinalTest:62 - Saint-Lazare Bond Report is Opened
+2024-07-15 08:34:38 INFO  [main] FinalTest:89 - Saint-Lazare Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:39 INFO  [main] FinalTest:94 - Saint-Lazare Bond Report is Closed
+2024-07-15 08:34:39 INFO  [main] FinalTest:54 - La Rédemption Bond is selected
+2024-07-15 08:34:41 INFO  [main] FinalTest:62 - La Rédemption Bond Report is Opened
+2024-07-15 08:34:44 INFO  [main] FinalTest:89 - La Rédemption Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:44 INFO  [main] FinalTest:94 - La Rédemption Bond Report is Closed
+2024-07-15 08:34:44 INFO  [main] FinalTest:54 - Saint-Basile Bond is selected
+2024-07-15 08:34:47 INFO  [main] FinalTest:62 - Saint-Basile Bond Report is Opened
+2024-07-15 08:34:49 INFO  [main] FinalTest:89 - Saint-Basile Bond Report data is downloaded to an excel sheet
+2024-07-15 08:34:49 INFO  [main] FinalTest:94 - Saint-Basile Bond Report is Closed
+2024-07-15 08:34:49 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_CA.ftl"): Not found
+2024-07-15 08:34:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2024-07-15 08:34:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2024-07-15 08:34:49 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2024-07-15 08:34:49 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_CA.ftl"): Not found
+2024-07-15 08:34:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2024-07-15 08:34:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2024-07-15 08:34:49 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_CA", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_CA.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2024-07-15 08:34:50 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/anupk/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2024-07-15 08:53:29 INFO  [main] FinalTest:145 - Quebec Auction and publication of results of debt securities issued for municipal financing purposes Website is opened successfully
+2024-07-15 08:53:31 INFO  [main] FinalTest:148 - Website is translated to English language
+2024-07-15 08:53:33 INFO  [main] FinalTest:54 - Saint-Lambert Bond is selected
+2024-07-15 08:53:35 INFO  [main] FinalTest:62 - Saint-Lambert Bond Report is Opened
+2024-07-15 08:53:38 INFO  [main] FinalTest:89 - Saint-Lambert Bond Report data is downloaded to an excel sheet
+2024-07-15 08:53:38 INFO  [main] FinalTest:94 - Saint-Lambert Bond Report is Closed
+2024-07-15 08:53:38 INFO  [main] FinalTest:54 - Blainville Bond is selected
+2024-07-15 08:53:40 INFO  [main] FinalTest:62 - Blainville Bond Report is Opened
+2024-07-15 08:53:42 INFO  [main] FinalTest:89 - Blainville Bond Report data is downloaded to an excel sheet
+2024-07-15 08:53:42 INFO  [main] FinalTest:94 - Blainville Bond Report is Closed
+2024-07-15 08:53:42 INFO  [main] FinalTest:54 - Régie de l'eau de L'Île-Perrot Bond is selected
+2024-07-15 08:53:44 INFO  [main] FinalTest:62 - Régie de l'eau de L'Île-Perrot Bond Report is Opened
+2024-07-15 08:53:45 INFO  [main] FinalTest:89 - Régie de l'eau de L'Île-Perrot Bond Report data is downloaded to an excel sheet
+2024-07-15 08:53:45 INFO  [main] FinalTest:94 - Régie de l'eau de L'Île-Perrot Bond Report is Closed
+2024-07-15 08:53:46 INFO  [main] FinalTest:54 - Vaudreuil-Dorion Bond is selected
+2024-07-15 08:53:48 INFO  [main] FinalTest:62 - Vaudreuil-Dorion Bond Report is Opened
+2024-07-15 08:53:49 INFO  [main] FinalTest:89 - Vaudreuil-Dorion Bond Report data is downloaded to an excel sheet
+2024-07-15 08:53:50 INFO  [main] FinalTest:94 - Vaudreuil-Dorion Bond Report is Closed
+2024-07-15 08:53:50 INFO  [main] FinalTest:54 - La Haute-Yamaska Bond is selected
+2024-07-15 08:53:52 INFO  [main] FinalTest:62 - La Haute-Yamaska Bond Report is Opened
+2024-07-15 08:53:53 INFO  [main] FinalTest:89 - La Haute-Yamaska Bond Report data is downloaded to an excel sheet
+2024-07-15 08:53:54 INFO  [main] FinalTest:94 - La Haute-Yamaska Bond Report is Closed
+2024-07-15 08:53:54 INFO  [main] FinalTest:54 - L'Isle-Verte Bond is selected
+2024-07-15 08:53:56 INFO  [main] FinalTest:62 - L'Isle-Verte Bond Report is Opened
+2024-07-15 08:53:57 INFO  [main] FinalTest:89 - L'Isle-Verte Bond Report data is downloaded to an excel sheet
+2024-07-15 08:53:58 INFO  [main] FinalTest:94 - L'Isle-Verte Bond Report is Closed
+2024-07-15 08:53:58 INFO  [main] FinalTest:54 - Sainte-Julienne Bond is selected
+2024-07-15 08:54:00 INFO  [main] FinalTest:62 - Sainte-Julienne Bond Report is Opened
+2024-07-15 08:54:01 INFO  [main] FinalTest:89 - Sainte-Julienne Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:01 INFO  [main] FinalTest:94 - Sainte-Julienne Bond Report is Closed
+2024-07-15 08:54:02 INFO  [main] FinalTest:54 - Saint-Louis-du-Ha! Ha! Bond is selected
+2024-07-15 08:54:04 INFO  [main] FinalTest:62 - Saint-Louis-du-Ha! Ha! Bond Report is Opened
+2024-07-15 08:54:05 INFO  [main] FinalTest:89 - Saint-Louis-du-Ha! Ha! Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:06 INFO  [main] FinalTest:94 - Saint-Louis-du-Ha! Ha! Bond Report is Closed
+2024-07-15 08:54:06 INFO  [main] FinalTest:54 - Waterloo Bond is selected
+2024-07-15 08:54:08 INFO  [main] FinalTest:62 - Waterloo Bond Report is Opened
+2024-07-15 08:54:09 INFO  [main] FinalTest:89 - Waterloo Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:09 INFO  [main] FinalTest:94 - Waterloo Bond Report is Closed
+2024-07-15 08:54:10 INFO  [main] FinalTest:54 - Cantley Bond is selected
+2024-07-15 08:54:12 INFO  [main] FinalTest:62 - Cantley Bond Report is Opened
+2024-07-15 08:54:13 INFO  [main] FinalTest:89 - Cantley Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:14 INFO  [main] FinalTest:94 - Cantley Bond Report is Closed
+2024-07-15 08:54:14 INFO  [main] FinalTest:54 - La Matapédia Bond is selected
+2024-07-15 08:54:17 INFO  [main] FinalTest:62 - La Matapédia Bond Report is Opened
+2024-07-15 08:54:19 INFO  [main] FinalTest:89 - La Matapédia Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:19 INFO  [main] FinalTest:94 - La Matapédia Bond Report is Closed
+2024-07-15 08:54:19 INFO  [main] FinalTest:54 - Régie intermunicipale de gestion des matières résiduelles de la région de Coaticook Bond is selected
+2024-07-15 08:54:21 INFO  [main] FinalTest:62 - Régie intermunicipale de gestion des matières résiduelles de la région de Coaticook Bond Report is Opened
+2024-07-15 08:54:23 INFO  [main] FinalTest:89 - Régie intermunicipale de gestion des matières résiduelles de la région de Coaticook Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:23 INFO  [main] FinalTest:94 - Régie intermunicipale de gestion des matières résiduelles de la région de Coaticook Bond Report is Closed
+2024-07-15 08:54:23 INFO  [main] FinalTest:54 - Saint-Donat Bond is selected
+2024-07-15 08:54:25 INFO  [main] FinalTest:62 - Saint-Donat Bond Report is Opened
+2024-07-15 08:54:26 INFO  [main] FinalTest:89 - Saint-Donat Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:27 INFO  [main] FinalTest:94 - Saint-Donat Bond Report is Closed
+2024-07-15 08:54:27 INFO  [main] FinalTest:54 - Saint-Lazare Bond is selected
+2024-07-15 08:54:29 INFO  [main] FinalTest:62 - Saint-Lazare Bond Report is Opened
+2024-07-15 08:54:31 INFO  [main] FinalTest:89 - Saint-Lazare Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:31 INFO  [main] FinalTest:94 - Saint-Lazare Bond Report is Closed
+2024-07-15 08:54:31 INFO  [main] FinalTest:54 - La Rédemption Bond is selected
+2024-07-15 08:54:33 INFO  [main] FinalTest:62 - La Rédemption Bond Report is Opened
+2024-07-15 08:54:35 INFO  [main] FinalTest:89 - La Rédemption Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:36 INFO  [main] FinalTest:94 - La Rédemption Bond Report is Closed
+2024-07-15 08:54:36 INFO  [main] FinalTest:54 - Saint-Basile Bond is selected
+2024-07-15 08:54:38 INFO  [main] FinalTest:62 - Saint-Basile Bond Report is Opened
+2024-07-15 08:54:40 INFO  [main] FinalTest:89 - Saint-Basile Bond Report data is downloaded to an excel sheet
+2024-07-15 08:54:40 INFO  [main] FinalTest:94 - Saint-Basile Bond Report is Closed
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_CA", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_CA.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2024-07-15 08:54:40 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

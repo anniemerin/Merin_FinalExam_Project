@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T08:33:23 CST" name="Default suite" finished-at="2024-07-15T08:34:50 CST" duration-ms="87498">
+    <groups>
+    </groups>
+    <test started-at="2024-07-15T08:33:23 CST" name="Default test" finished-at="2024-07-15T08:34:50 CST" duration-ms="87498">
+      <class name="MerinFinalProject.FinalTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:MerinFinalProject.FinalTest@303cf2ba]" started-at="2024-07-15T08:33:23 CST" name="beforeSuite" finished-at="2024-07-15T08:33:23 CST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:MerinFinalProject.FinalTest@303cf2ba]" started-at="2024-07-15T08:33:23 CST" name="beforeMethod" finished-at="2024-07-15T08:33:33 CST" duration-ms="10385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="readData()[pri:0, instance:MerinFinalProject.FinalTest@303cf2ba]" started-at="2024-07-15T08:33:33 CST" name="readData" finished-at="2024-07-15T08:34:49 CST" duration-ms="75822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readData -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:MerinFinalProject.FinalTest@303cf2ba]" started-at="2024-07-15T08:34:49 CST" name="afterMethod" finished-at="2024-07-15T08:34:50 CST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- MerinFinalProject.FinalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
